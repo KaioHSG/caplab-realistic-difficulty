@@ -1,6 +1,6 @@
 {
   "header": {
-    "title": "Realistic Difficulty v1",
+    "title": "Realistic Difficulty v2",
     "description": "Realistic Difficulty is a simple script that adjusts the game's difficulty to resemble reality. However, this doesn't necessarily mean it will be difficult.",
     "mod": "",
     "initialGameSpeed": "0",
@@ -148,7 +148,7 @@
     "unlockedProducts": []
   },
   "expertise": {
-    "type": "Software Only",
+    "type": "",
     "general": {
       "retailing": "",
       "farming": "",
